@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        Util.printMessage( "aaaaHello World!" );
+        
+        System.out.println("commit2");
     }
 }
